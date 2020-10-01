@@ -1,0 +1,16 @@
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\AzureTest.dll
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\AzureTest.pdb
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\WebDriver.dll
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\bin\Debug\WebDriver.xml
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\obj\Debug\AzureTest.csprojAssemblyReference.cache
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\obj\Debug\AzureTest.csproj.CoreCompileInputs.cache
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\obj\Debug\AzureTest.csproj.CopyComplete
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\obj\Debug\AzureTest.dll
+D:\Santhosh\Selenium\Old\AzureTest\AzureTest\obj\Debug\AzureTest.pdb
